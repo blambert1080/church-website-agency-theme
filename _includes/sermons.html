@@ -1,0 +1,31 @@
+<!-- Portfolio Grid Section -->
+<section id="sermons" class="bg-light-gray">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading">Sermons</h2>
+        <h3 class="section-subheading text-muted">We live stream all of our
+          services for those who are unable to make it in person <br /> but we strongly
+          encourage you to worship with us in person!
+        </h3>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <iframe class="iframe-video" id="ls_embed_1691776002"
+          src="https://livestream.com/accounts/12564847/events/10928143/player?width=960&height=540&enableInfoAndActivity=false&defaultDrawer=&autoPlay=false&mute=false"
+          width="100%" 
+          frameborder="0" 
+          scrolling="no" 
+          allowfullscreen>
+        </iframe>
+        <script type="text/javascript" data-embed_id="ls_embed_1691776002"
+          src="https://livestream.com/assets/plugins/referrer_tracking.js"></script>
+        {% assign events = site.data.sermons %}
+        {% for event in events.sermons.data limit: 15 %}
+        <p>{{event.attributes.full_name}}</p>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</section>

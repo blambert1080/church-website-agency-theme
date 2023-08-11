@@ -362,6 +362,58 @@ section h3.section-service-times {
     text-transform: none;
 }
 
+.iframe-video {
+    border-radius: 0.75rem;
+    height: 250px;
+    width: 100%;
+    margin-bottom: 5rem;
+}
+
+@media(min-width:500px){
+    .iframe-video {
+        border-radius: 0.75rem;
+        height: 265px;
+        width: 100%;
+        margin-bottom: 5rem;
+    }
+}
+@media(min-width:600px){
+    .iframe-video {
+        border-radius: 0.75rem;
+        height: 320px;
+        width: 100%;
+        margin-bottom: 5rem;
+    }
+}
+
+@media(min-width:700px){
+    .iframe-video {
+        border-radius: 0.75rem;
+        height: 380px;
+        width: 100%;
+        margin-bottom: 5rem;
+    }
+}
+
+@media(min-width:768px){
+    .iframe-video {
+        border-radius: 0.75rem;
+        height: 405px;
+        width: 100%;
+        margin-bottom: 5rem;
+    }
+}
+
+@media(min-width:992px){
+    .iframe-video {
+        border-radius: 0.75rem;
+        height: 530px;
+        width: 100%;
+        max-width: 945px;
+        margin-bottom: 5rem;
+    }
+}
+
 #portfolio .portfolio-item {
     right: 0;
     margin: 0 0 15px;
