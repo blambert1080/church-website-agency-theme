@@ -9,51 +9,87 @@ description: "Write an awesome description for your new site here. You can edit 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
+- name: Byron McCollum
+  pic: byron.png
+  position: Elder
   social:
-    - title: twitter
-      url: #
     - title: facebook
       url: #
-    - title: stack-overflow
+    - title: email
       url: #
 
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
+- name: Don Lambert
+  pic: don.png
+  position: Elder
   social:
-    - title: twitter
-      url: #
     - title: facebook
       url: #
-    - title: linkedin
+    - title: email
       url: #
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
+- name: Ron Turnbow
+  pic: ron.png
+  position: Elder
   social:
-    - title: twitter
-      url: #
     - title: facebook
       url: #
-    - title: google-plus
+    - title: email
       url: #
+
+- name: Blake Lambert
+  pic: blake.png
+  position: Deacon
+  social:
+    - title: facebook
+      url: #
+    - title: email
+      url: #
+
+- name: Cliff McCallister
+  pic: cliff.png
+  position: Deacon
+  social:
+    - title: facebook
+      url: #
+    - title: email
+      url: #
+
+- name: Faron Travis
+  pic: faron.png
+  position: Deacon
+  social:
+    - title: facebook
+      url: #
+    - title: email
+      url: #
+
+- name: Mark Cotter
+  pic: mark.png
+  position: Deacon
+  social:
+    - title: facebook
+      url: #
+    - title: email
+      url: #
+
+- name: Mitch Himes
+  pic: mitch.png
+  position: Deacon
+  social:
+    - title: facebook
+      url: #
+    - title: email
+      url: #
+
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: 
   - title: facebook
     url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+  - title: instagram 
+    url: 
 
 # Postal address (add as many lines as necessary)
 address:
