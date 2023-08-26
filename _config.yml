@@ -1,5 +1,5 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+url: https://blambert1080.github.io
+baseurl: /church-website-agency-theme
 
 # Site settings
 title: Twin Creeks
@@ -13,8 +13,6 @@ people:
   pic: byron.png
   position: Elder
   social:
-    - title: facebook
-      url: #
     - title: email
       url: #
 
@@ -22,8 +20,6 @@ people:
   pic: don.png
   position: Elder
   social:
-    - title: facebook
-      url: #
     - title: email
       url: #
 
@@ -31,8 +27,6 @@ people:
   pic: ron.png
   position: Elder
   social:
-    - title: facebook
-      url: #
     - title: email
       url: #
 
@@ -40,8 +34,6 @@ people:
   pic: blake.png
   position: Deacon
   social:
-    - title: facebook
-      url: #
     - title: email
       url: #
 
@@ -49,8 +41,6 @@ people:
   pic: cliff.png
   position: Deacon
   social:
-    - title: facebook
-      url: #
     - title: email
       url: #
 
@@ -58,8 +48,6 @@ people:
   pic: faron.png
   position: Deacon
   social:
-    - title: facebook
-      url: #
     - title: email
       url: #
 
@@ -67,8 +55,6 @@ people:
   pic: mark.png
   position: Deacon
   social:
-    - title: facebook
-      url: #
     - title: email
       url: #
 
@@ -76,8 +62,6 @@ people:
   pic: mitch.png
   position: Deacon
   social:
-    - title: facebook
-      url: #
     - title: email
       url: #
 
